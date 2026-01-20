@@ -102,4 +102,3 @@ Stores customer demographic and geographic information.
 
 ---
 
-## 📂 Project Structure
